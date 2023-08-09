@@ -12,8 +12,10 @@ Markdown is a Lightweight Markup Language
     Horizontol Rules
 
 ## VsCode Extensions
-    Markdown Preview Github Styling
-    Auto-Open Markdown 
+* [Markdown Preview Github Styling](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles)  
+* [Auto-Open Markdown Preview](https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview)  
+* [Markdown Emoji](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-emoji)  
+* [:emojisense:](https://marketplace.visualstudio.com/items?itemName=bierner.emojisense) Emoji suggestions and autocomplete
     
 [comment]: # (This is a comment, it will not be included)
 
@@ -227,6 +229,14 @@ def sum(num1,num2):
 * [x] Task 2
 * [ ] Task 3
 
+## 4. Emojis
+    To add an emoji,
+    add the emoji name in between : : (colon)
+
+    :sparkles:
+
+:sparkles:
+> Type : and suggestions and autocomplete will appear (:emojisense: plugin required)
 ---
 # Useful Links :
 
