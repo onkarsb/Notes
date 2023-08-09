@@ -6,3 +6,4 @@
     1. [Local Project](/Git-Command-line-Notes/2.%20Getting%20started-Local%20project.md)
     1. [Remote Project](/Git-Command-line-Notes/3.%20Getting%20started-Remote%20project.md)
     1. [Common Workflow](/Git-Command-line-Notes/4.%20Common%20workflow.md)
+    1.  [Tags and Releases](/Git-Command-line-Notes/Semantic%20Versioning,%20Tags%20and%20Releases.md)
